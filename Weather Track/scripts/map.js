@@ -15,3 +15,6 @@ async function fetchRadarMap() {
         ctx.drawImage(image, 0, 0);
     };
 }
+
+// Call fetchRadarMap to update the radar map
+fetchRadarMap();
