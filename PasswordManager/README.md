@@ -6,7 +6,7 @@ The purpose of this software is to demonstrate my understanding of Rust's syntax
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/bc8t7MNJX6w)
 
 # Development Environment
 
@@ -27,4 +27,4 @@ I've used VSC, Rust, Hashmap libraries.
 
 - Implement Encryption: Enhance security by adding encryption for stored passwords.
 - Add User Authentication: Introduce user authentication mechanisms to safeguard access to the password manager.
-- Improve User Interface: Develop a graphical user interface (GUI) to make the application more user-friendly.
+- Improve User Interface: Develop a graphical user interface (GUI) to make the application more user-friendly. 
